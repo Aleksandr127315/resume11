@@ -3,4 +3,4 @@
 ##результат вы можете посмотреть тут
 
 
-[это моя первая работа на HTML & CSS](http://127.0.0.1:5500/css-course/index.html)
+[это моя первая работа на HTML & CSS](https://aleksandr127315.github.io/resume11/)
